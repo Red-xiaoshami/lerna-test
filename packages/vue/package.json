@@ -23,5 +23,6 @@
     "@demo/react": "^0.0.2",
     "chalk": "^5.0.0",
     "semver": "^7.3.5"
-  }
+  },
+  "gitHead": "003b09e00cfde476199abbf6661e030b2e82d558"
 }
