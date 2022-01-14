@@ -10,7 +10,7 @@
       "registry": "https://github.com/Red-xiaoshami/lerna-test.git"
     }
   },
-  "version": "0.0.2",
+  "version": "0.0.3",
   "npmClient": "yarn",
   "useWorkspaces": true
 }
