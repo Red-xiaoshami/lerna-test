@@ -1,0 +1,14 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "command": {
+    "bootstrap": {
+      "hoist": true
+    },
+    "publish": {
+        "registry": "your-private-registry"
+      }
+  },
+  "version": "0.0.1"
+}

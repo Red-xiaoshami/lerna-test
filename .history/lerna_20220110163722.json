@@ -1,0 +1,14 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "command": {
+    "bootstrap": {
+      "hoist": true
+    },
+    "publish": {
+        "registry": "https://github.com/Red-xiaoshami/lerna-test.git"
+    }
+  },
+  "version": "0.0.1"
+}
