@@ -1,0 +1,16 @@
+{
+  "packages": [
+    "packages/*"
+  ],
+  "command": {
+    "bootstrap": {
+      "hoist": true
+    },
+    "publish": {
+      "registry": "http://82.157.49.182:4873/"
+    }
+  },
+  "version": "0.0.4",
+  "npmClient": "yarn",
+  "useWorkspaces": true
+}

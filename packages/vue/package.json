@@ -22,6 +22,7 @@
   "dependencies": {
     "@demo/react": "^0.0.4",
     "chalk": "^5.0.0",
+    "graphql": "^16.2.0",
     "semver": "^7.3.5"
   },
   "gitHead": "35cfe1065cb152efa768bce4663e56f59b345a3f"
